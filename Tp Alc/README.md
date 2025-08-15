@@ -42,5 +42,5 @@ Este repositorio contiene el desarrollo completo de los Trabajos Prácticos Nº1
 ## 🎓 Autores
 
 - Arango Joaquin
-- Morrone Valentina 
-- Peix Francisco
+- Morrone Valentina
+- Peix Francisco
